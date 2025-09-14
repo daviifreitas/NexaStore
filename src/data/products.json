@@ -1,0 +1,674 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone Galaxy Pro",
+      "category": "Eletrônicos",
+      "price": 1299.99,
+      "originalPrice": 1599.99,
+      "stock": 15,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
+      "description": "Smartphone premium com performance excepcional e design elegante. Equipado com tecnologia de ponta para atender todas as suas necessidades do dia a dia, desde trabalho até entretenimento.",
+      "features": [
+        "Tela AMOLED 6.7\" com resolução 4K",
+        "Camera tripla 108MP com estabilização óptica",
+        "Processador Octa-core 3.0GHz",
+        "128GB de armazenamento interno",
+        "Bateria 4500mAh com carregamento rápido",
+        "Resistente à água IP68",
+        "5G habilitado",
+        "Garantia de 24 meses"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Notebook Ultra Fino",
+      "category": "Computadores",
+      "price": 2499.99,
+      "stock": 8,
+      "isFavorite": true,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
+      "description": "Notebook ultraleve e potente, ideal para profissionais que precisam de mobilidade sem abrir mão da performance. Design premium com materiais de alta qualidade.",
+      "features": [
+        "Processador Intel Core i7 11ª geração",
+        "16GB RAM DDR4",
+        "SSD 512GB NVMe",
+        "Tela 14\" Full HD IPS",
+        "Placa de vídeo integrada Intel Iris",
+        "Peso de apenas 1.2kg",
+        "Bateria de até 12 horas",
+        "Conectores USB-C e Thunderbolt 4"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fone de Ouvido Bluetooth",
+      "category": "Áudio",
+      "price": 199.99,
+      "originalPrice": 249.99,
+      "stock": 25,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+      "description": "Fone de ouvido sem fio com cancelamento ativo de ruído e qualidade de som superior. Perfeito para uso profissional, viagens e momentos de relaxamento.",
+      "features": [
+        "Cancelamento ativo de ruído (ANC)",
+        "Conectividade Bluetooth 5.0",
+        "Bateria de até 30 horas",
+        "Drivers de 40mm de alta qualidade",
+        "Microfone integrado com supressão de ruído",
+        "Controles touch intuitivos",
+        "Dobrável e portátil",
+        "Compatível com assistentes virtuais"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch Series 5",
+      "category": "Wearables",
+      "price": 899.99,
+      "stock": 12,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?w=400&h=300&fit=crop",
+      "description": "Smartwatch avançado com monitoramento completo de saúde e fitness. Acompanhe seus treinos, saúde e receba notificações importantes diretamente no pulso.",
+      "features": [
+        "Tela AMOLED Always-On de 1.9\"",
+        "Monitor de frequência cardíaca 24h",
+        "GPS integrado para corridas",
+        "Resistente à água 50m",
+        "Mais de 100 modalidades esportivas",
+        "Monitoramento do sono",
+        "Bateria de até 14 dias",
+        "Pulseiras intercambiáveis"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tablet 10 Polegadas",
+      "category": "Eletrônicos",
+      "price": 699.99,
+      "stock": 3,
+      "isFavorite": true,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=300&fit=crop",
+      "description": "Tablet versátil com tela de alta resolução, ideal para trabalho, estudo e entretenimento. Performance fluida e design elegante para uso em qualquer lugar.",
+      "features": [
+        "Tela IPS 10.1\" 2K (2560x1600)",
+        "Processador Octa-core 2.4GHz",
+        "4GB RAM + 64GB armazenamento",
+        "Câmeras frontal 8MP e traseira 13MP",
+        "Bateria 7000mAh",
+        "Suporte para caneta stylus",
+        "Alto-falantes estéreo",
+        "Android 12 com atualizações garantidas"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Câmera Digital DSLR",
+      "category": "Fotografia",
+      "price": 1899.99,
+      "stock": 6,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
+      "description": "Câmera DSLR profissional com sensor full-frame e recursos avançados. Capture momentos únicos com qualidade excepcional e controle total sobre suas fotos.",
+      "features": [
+        "Sensor CMOS Full Frame 24.1MP",
+        "Sistema de foco com 51 pontos",
+        "Gravação de vídeo 4K UHD",
+        "ISO até 25600 (expansível)",
+        "Tela LCD articulada de 3.2\"",
+        "Velocidade de obturação até 1/4000s",
+        "Wi-Fi e Bluetooth integrados",
+        "Compatível com lentes intercambiáveis"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mouse Gamer RGB",
+      "category": "Periféricos",
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "stock": 50,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400&h=300&fit=crop",
+      "description": "Mouse gamer de alta precisão com iluminação RGB customizável. Desenvolvido para gamers profissionais que exigem máxima performance e conforto durante longas sessões.",
+      "features": [
+        "Sensor óptico de 16000 DPI",
+        "6 botões programáveis",
+        "Iluminação RGB com 16.7 milhões de cores",
+        "Taxa de atualização de 1000Hz",
+        "Design ergonômico ambidestro",
+        "Cabo trançado de 1.8m",
+        "Software de personalização",
+        "Switches Omron com 50 milhões de cliques"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Teclado Mecânico",
+      "category": "Periféricos",
+      "price": 299.99,
+      "stock": 18,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400&h=300&fit=crop",
+      "description": "Teclado mecânico premium com switches de alta qualidade e retroiluminação RGB. Ideal para gamers e profissionais que valorizam tactilidade e durabilidade.",
+      "features": [
+        "Switches mecânicos Cherry MX Blue",
+        "Retroiluminação RGB por tecla",
+        "Layout ABNT2 completo",
+        "Estrutura em alumínio",
+        "Anti-ghosting e N-Key rollover",
+        "Teclas com double-shot PBT",
+        "Descanso para punho removível",
+        "Garantia de 5 anos"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Monitor 27 4K",
+      "category": "Monitores",
+      "price": 1199.99,
+      "stock": 0,
+      "isFavorite": true,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=300&fit=crop",
+      "description": "Monitor 4K de 27 polegadas com tecnologia IPS e cobertura de cores profissional. Perfeito para designers, fotógrafos e gamers que exigem máxima qualidade visual.",
+      "features": [
+        "Resolução 4K UHD (3840x2160)",
+        "Painel IPS com 99% sRGB",
+        "Taxa de atualização 144Hz",
+        "Tempo de resposta 1ms",
+        "HDR10 suportado",
+        "Conectores HDMI 2.1, DisplayPort e USB-C",
+        "Ajuste de altura e rotação",
+        "Modo de luz azul reduzida"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Console de Videogame",
+      "category": "Games",
+      "price": 2199.99,
+      "stock": 2,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=400&h=300&fit=crop",
+      "description": "Console de videogame de última geração com gráficos 4K e carregamento ultra-rápido. Experimente jogos com qualidade cinema e performance sem precedentes.",
+      "features": [
+        "Processador custom de 8 núcleos",
+        "GPU com ray tracing em tempo real",
+        "SSD NVMe de 825GB",
+        "Suporte para jogos em 4K/120fps",
+        "Áudio 3D imersivo",
+        "Retrocompatibilidade",
+        "Controle háptico avançado",
+        "Streaming e compartilhamento integrado"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Impressora 3D",
+      "category": "Impressoras",
+      "price": 1599.99,
+      "stock": 4,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=400&h=300&fit=crop",
+      "description": "Impressora 3D de alta precisão para prototipagem e produção. Tecnologia FDM avançada com facilidade de uso para profissionais e entusiastas da impressão 3D.",
+      "features": [
+        "Volume de impressão 220x220x250mm",
+        "Precisão de camada de 0.1mm",
+        "Mesa aquecida até 100°C",
+        "Extrusora all-metal",
+        "Auto-nivelamento da mesa",
+        "Tela touch colorida 4.3\"",
+        "Conectividade Wi-Fi e USB",
+        "Compatível com múltiplos filamentos"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Drone com Câmera 4K",
+      "category": "Drones",
+      "price": 999.99,
+      "originalPrice": 1299.99,
+      "stock": 7,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=400&h=300&fit=crop",
+      "description": "Drone profissional com câmera 4K e gimbal de 3 eixos. Capture imagens aéreas espetaculares com estabilização profissional e recursos inteligentes de voo.",
+      "features": [
+        "Câmera 4K com gimbal de 3 eixos",
+        "Autonomia de voo de 31 minutos",
+        "Alcance de transmissão de 10km",
+        "Sensores de obstáculos omnidirecionais",
+        "Modos de voo inteligentes",
+        "Carregamento rápido da bateria",
+        "Controle remoto com tela integrada",
+        "Homologado pela ANATEL"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Smart TV 55 OLED",
+      "category": "Eletrônicos",
+      "price": 3299.99,
+      "originalPrice": 3999.99,
+      "stock": 5,
+      "isFavorite": true,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop",
+      "description": "Smart TV OLED de 55 polegadas com qualidade de imagem excepcional e recursos inteligentes. Cores vibrantes e contraste infinito para uma experiência cinematográfica em casa.",
+      "features": [
+        "Tela OLED 4K Ultra HD 55\"",
+        "HDR10+ e Dolby Vision",
+        "Sistema operacional webOS",
+        "Processador α9 Gen4 AI",
+        "Dolby Atmos integrado",
+        "HDMI 2.1 com suporte a 120Hz",
+        "Controle por voz com IA",
+        "Design ultra-fino"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Cadeira Gamer Ergonômica",
+      "category": "Mobiliário",
+      "price": 799.99,
+      "stock": 12,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=300&fit=crop",
+      "description": "Cadeira gamer premium com design ergonômico e materiais de alta qualidade. Conforto máximo para longas sessões de trabalho ou jogos.",
+      "features": [
+        "Espuma de alta densidade",
+        "Apoio lombar ajustável",
+        "Braços 4D totalmente ajustáveis",
+        "Reclinação até 160°",
+        "Base de alumínio com 5 rodas",
+        "Revestimento em couro PU premium",
+        "Suporte para até 150kg",
+        "Garantia de 3 anos"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Roteador Wi-Fi 6 Mesh",
+      "category": "Redes",
+      "price": 449.99,
+      "stock": 20,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=400&h=300&fit=crop",
+      "description": "Sistema de rede mesh Wi-Fi 6 para cobertura total da casa. Velocidade ultra-rápida e conexão estável em todos os ambientes.",
+      "features": [
+        "Wi-Fi 6 (802.11ax) até 3Gbps",
+        "Cobertura de até 500m²",
+        "Suporte para 100+ dispositivos",
+        "MU-MIMO 4x4 e beamforming",
+        "Portas Gigabit Ethernet",
+        "Configuração pelo app móvel",
+        "Controle parental avançado",
+        "Segurança WPA3"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "SSD Externo 2TB",
+      "category": "Armazenamento",
+      "price": 599.99,
+      "originalPrice": 749.99,
+      "stock": 30,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400&h=300&fit=crop",
+      "description": "SSD externo portátil de alta velocidade com 2TB de capacidade. Ideal para backup, transferência rápida de arquivos e expansão de armazenamento.",
+      "features": [
+        "Capacidade de 2TB",
+        "Interface USB 3.2 Gen 2x2",
+        "Velocidade de leitura até 2000MB/s",
+        "Compatível com PC, Mac e console",
+        "Criptografia de hardware AES 256-bit",
+        "Design compacto e resistente",
+        "Cabo USB-C incluído",
+        "Garantia de 5 anos"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Carregador Sem Fio 15W",
+      "category": "Acessórios",
+      "price": 129.99,
+      "stock": 45,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=400&h=300&fit=crop",
+      "description": "Carregador sem fio de alta potência com design elegante. Carregamento rápido e seguro para smartphones compatíveis com Qi.",
+      "features": [
+        "Potência de carregamento 15W",
+        "Compatível com padrão Qi",
+        "LED indicador de status",
+        "Proteção contra superaquecimento",
+        "Base antiderrapante",
+        "Design minimalista em alumínio",
+        "Cabo USB-C de 1.5m incluído",
+        "Certificação FCC e CE"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Webcam 4K Pro",
+      "category": "Periféricos",
+      "price": 299.99,
+      "stock": 15,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400&h=300&fit=crop",
+      "description": "Webcam profissional 4K com recursos avançados para streaming, videoconferências e criação de conteúdo. Qualidade de imagem superior.",
+      "features": [
+        "Resolução 4K UHD 30fps",
+        "Autofoco e correção de luz automática",
+        "Microfone stereo com cancelamento de ruído",
+        "Campo de visão ajustável 65°-78°",
+        "Compatível com OBS, Zoom, Teams",
+        "Clip universal para monitores",
+        "Privacy shutter integrada",
+        "USB plug-and-play"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Power Bank 20000mAh",
+      "category": "Acessórios",
+      "price": 149.99,
+      "originalPrice": 199.99,
+      "stock": 35,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1609277809752-d8d45b1e8bb1?w=400&h=300&fit=crop",
+      "description": "Power bank de alta capacidade com carregamento rápido e múltiplas portas. Mantenha seus dispositivos sempre carregados durante viagens.",
+      "features": [
+        "Capacidade 20000mAh (74Wh)",
+        "Carregamento rápido PD 3.0 22.5W",
+        "3 portas USB + 1 USB-C",
+        "Display digital de bateria",
+        "Proteções múltiplas de segurança",
+        "Carregamento pass-through",
+        "Compatível com todos smartphones",
+        "Certificação ANATEL"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Alto-falante Bluetooth Premium",
+      "category": "Áudio",
+      "price": 399.99,
+      "stock": 18,
+      "isFavorite": true,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=300&fit=crop",
+      "description": "Alto-falante Bluetooth premium com som de alta fidelidade e resistência à água. Ideal para casa, viagens e atividades ao ar livre.",
+      "features": [
+        "Áudio Hi-Fi com drivers premium",
+        "Conectividade Bluetooth 5.0",
+        "Bateria de até 24 horas",
+        "Resistência IPX7 à água",
+        "Pareamento estéreo TWS",
+        "Microfone para chamadas",
+        "Controles tácteis",
+        "Design robusto e portátil"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Hub USB-C 7 em 1",
+      "category": "Periféricos",
+      "price": 179.99,
+      "stock": 25,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=400&h=300&fit=crop",
+      "description": "Hub USB-C multifuncional com 7 portas para expandir a conectividade do seu laptop. Design compacto e alta velocidade de transferência.",
+      "features": [
+        "7 portas: USB-A, USB-C, HDMI, SD, ethernet",
+        "Saída HDMI 4K 60Hz",
+        "USB 3.0 com velocidade até 5Gbps",
+        "Slot para cartão SD/microSD",
+        "Porta Ethernet Gigabit",
+        "Carregamento PD até 100W",
+        "Liga de alumínio premium",
+        "Compatível com Thunderbolt 3/4"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Luminária LED Inteligente",
+      "category": "Casa Inteligente",
+      "price": 89.99,
+      "stock": 40,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1740452009002-a2cd15fc0333?w=400&h=300&fit=crop",
+      "description": "Luminária LED inteligente com controle por app e 16 milhões de cores. Crie ambientes personalizados e automatize sua iluminação.",
+      "features": [
+        "16 milhões de cores RGB",
+        "Controle por app e assistente de voz",
+        "Programação de horários",
+        "Efeitos de luz dinâmicos",
+        "Consumo de apenas 12W",
+        "Vida útil de 25000 horas",
+        "Compatível com Alexa e Google",
+        "Instalação simples plug-and-play"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Mousepad XXL Gaming",
+      "category": "Periféricos",
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "stock": 60,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400&h=300&fit=crop",
+      "description": "Mousepad gamer de tamanho estendido com superficie de alta qualidade. Cobertura total da mesa para mouse e teclado.",
+      "features": [
+        "Tamanho XXL: 900x400x3mm",
+        "Superficie micro-texturizada",
+        "Base de borracha antiderrapante",
+        "Bordas costuradas resistentes",
+        "Compatível com sensores ópticos e laser",
+        "Fácil limpeza e manutenção",
+        "Design gamer com RGB opcional",
+        "Material durável e flexível"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Placa de Vídeo RTX 4060",
+      "category": "Componentes",
+      "price": 1899.99,
+      "stock": 8,
+      "isFavorite": true,
+      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=400&h=300&fit=crop",
+      "description": "Placa de vídeo de alta performance com ray tracing e DLSS 3. Ideal para jogos em alta resolução e criação de conteúdo profissional.",
+      "features": [
+        "GPU NVIDIA GeForce RTX 4060",
+        "8GB GDDR6X de memória",
+        "Ray tracing em tempo real",
+        "DLSS 3 com Frame Generation",
+        "Suporte para 4K gaming",
+        "Refrigeração tripla com ventoinhas",
+        "Conectores DisplayPort 1.4a e HDMI 2.1",
+        "Garantia de 3 anos"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Memória RAM DDR4 32GB",
+      "category": "Componentes",
+      "price": 699.99,
+      "stock": 22,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1562976540-df9eac5959b2?w=400&h=300&fit=crop",
+      "description": "Kit de memória RAM DDR4 de alta performance com 32GB (2x16GB). Ideal para gaming, edição de vídeo e multitarefas intensivas.",
+      "features": [
+        "32GB total (2x16GB)",
+        "Frequência 3200MHz",
+        "Latência CL16",
+        "Suporte XMP 2.0",
+        "Dissipadores de calor premium",
+        "RGB sincronizável",
+        "Compatibilidade testada",
+        "Garantia vitalícia"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Cooler CPU Líquido RGB",
+      "category": "Componentes",
+      "price": 449.99,
+      "originalPrice": 549.99,
+      "stock": 14,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=400&h=300&fit=crop",
+      "description": "Sistema de refrigeração líquida AIO com radiador de 240mm e RGB. Mantenha seu processador em temperaturas ideais com visual impressionante.",
+      "features": [
+        "Radiador de 240mm",
+        "Bomba com RGB customizável",
+        "Ventoinhas PWM de alta performance",
+        "TDP suportado até 250W",
+        "Compatível com Intel e AMD",
+        "Software de controle RGB",
+        "Instalação simplificada",
+        "Garantia de 6 anos"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Fonte Modular 750W 80+ Gold",
+      "category": "Componentes",
+      "price": 599.99,
+      "stock": 16,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=400&h=300&fit=crop",
+      "description": "Fonte de alimentação modular 80+ Gold com 750W de potência. Eficiência energética superior e cabos destacáveis para melhor organização.",
+      "features": [
+        "Potência de 750W",
+        "Certificação 80+ Gold",
+        "Cabos totalmente modulares",
+        "Ventilador de 135mm silencioso",
+        "Proteções OVP, OCP, SCP, OTP",
+        "Capacitores japoneses premium",
+        "Garantia de 10 anos",
+        "Compatível com ATX12V v2.52"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "SSD M.2 NVMe 1TB",
+      "category": "Armazenamento",
+      "price": 399.99,
+      "originalPrice": 499.99,
+      "stock": 28,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400&h=300&fit=crop",
+      "description": "SSD M.2 NVMe de alta velocidade com 1TB de capacidade. Performance excepcional para sistema operacional e jogos.",
+      "features": [
+        "Capacidade de 1TB",
+        "Interface PCIe 4.0 x4",
+        "Velocidade de leitura até 7000MB/s",
+        "Velocidade de escrita até 6300MB/s",
+        "Controlador de última geração",
+        "Cache DRAM integrado",
+        "Dissipador de calor incluído",
+        "Garantia de 5 anos"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Placa-Mãe B550 ATX",
+      "category": "Componentes",
+      "price": 899.99,
+      "stock": 11,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=400&h=300&fit=crop",
+      "description": "Placa-mãe ATX com chipset B550, suporte para AMD Ryzen e recursos avançados. Base sólida para builds de alto desempenho.",
+      "features": [
+        "Socket AM4 para AMD Ryzen",
+        "Chipset AMD B550",
+        "4 slots DDR4 até 128GB",
+        "PCIe 4.0 x16 e M.2",
+        "Wi-Fi 6 e Bluetooth 5.2 integrados",
+        "Audio HD de 7.1 canais",
+        "USB 3.2 Gen2 Type-C",
+        "RGB Mystic Light integrado"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Gabinete Gamer RGB",
+      "category": "Componentes",
+      "price": 349.99,
+      "stock": 19,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=400&h=300&fit=crop",
+      "description": "Gabinete gamer mid-tower com painel lateral em vidro temperado e sistema RGB integrado. Design moderno e excelente fluxo de ar.",
+      "features": [
+        "Painel lateral em vidro temperado",
+        "3 ventoinhas RGB frontais incluídas",
+        "Suporte para placas-mãe ATX",
+        "Espaço para placas de vídeo até 370mm",
+        "Gerenciamento de cabos otimizado",
+        "Filtros de poeira removíveis",
+        "Portas USB 3.0 e USB-C frontais",
+        "Controlador RGB integrado"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Monitor Ultrawide 34 Curvo",
+      "category": "Monitores",
+      "price": 1799.99,
+      "originalPrice": 2199.99,
+      "stock": 6,
+      "isFavorite": true,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=300&fit=crop",
+      "description": "Monitor ultrawide curvo de 34 polegadas com resolução QHD e taxa de atualização de 144Hz. Experiência imersiva para gaming e produtividade.",
+      "features": [
+        "Tela curva 1800R de 34\"",
+        "Resolução UWQHD (3440x1440)",
+        "Taxa de atualização 144Hz",
+        "Tempo de resposta 1ms MPRT",
+        "FreeSync Premium Pro",
+        "HDR400 certificado",
+        "USB-C com 90W PD",
+        "Ajustes ergonômicos completos"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Processador AMD Ryzen 7",
+      "category": "Componentes",
+      "price": 1299.99,
+      "stock": 13,
+      "isFavorite": false,
+      "image": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=400&h=300&fit=crop",
+      "description": "Processador AMD Ryzen 7 de última geração com arquitetura Zen 4. Performance excepcional para gaming, criação de conteúdo e multitarefas.",
+      "features": [
+        "8 núcleos / 16 threads",
+        "Frequência base 4.5GHz",
+        "Boost até 5.4GHz",
+        "Cache L3 de 32MB",
+        "Arquitetura Zen 4 (5nm)",
+        "Suporte para DDR5 e PCIe 5.0",
+        "TDP de 105W",
+        "Cooler Wraith Prism incluído"
+      ]
+    }
+  ],
+  "categories": [
+    "Todos",
+    "Eletrônicos",
+    "Computadores",
+    "Áudio",
+    "Wearables",
+    "Fotografia",
+    "Periféricos",
+    "Monitores",
+    "Games",
+    "Impressoras",
+    "Drones",
+    "Mobiliário",
+    "Redes",
+    "Armazenamento",
+    "Acessórios",
+    "Casa Inteligente",
+    "Componentes"
+  ]
+}
